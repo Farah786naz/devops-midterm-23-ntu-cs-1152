@@ -1,0 +1,27 @@
+{
+  "name": "devops-midterm-23-ntu-cs-1152",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farah786naz/devops-midterm-23-ntu-cs-1152.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Farah786naz/devops-midterm-23-ntu-cs-1152/issues"
+  },
+  "homepage": "https://github.com/Farah786naz/devops-midterm-23-ntu-cs-1152#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
